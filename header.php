@@ -46,9 +46,9 @@
 				<li class="right"><a href="https://github.com/DirtyRasa" title="Github" target="_blank">
 					<img src="images/Octocat_32.png" alt="Github" />
 				</a></li>
-				<li class="right"><a href="https://bitbucket.org/DirtyRasa" title="Bitbucket" target="_blank">
+				<!-- <li class="right"><a href="https://bitbucket.org/DirtyRasa" title="Bitbucket" target="_blank">
 					<img src="images/Bitbucket_32.png" alt="Bitbucket" />
-				</a></li>
+				</a></li> -->
 				<!--
 				<li class="two columns"><a href="#" title="Facebook" target="_blank">
 					<img src="images/f_logo_32.png" alt="Facebook" />
