@@ -1,0 +1,22 @@
+<?php include("header.php"); ?>
+	
+	<section class="row">
+		<?php include("desktopicons.php"); ?>
+		
+		<section class="eight columns">
+			<header class="row graybar rounded-corners">
+				<div class="twelve columns">
+					<hgroup class="left container">
+						<h3></h3>
+					</hgroup>
+					
+					<?php include("windowButtons.php"); ?>
+				</div>
+			</header>
+			<section class="row application">
+			
+			</section>
+		</section>
+	</section>
+	
+<?php include("footer.php"); ?>
