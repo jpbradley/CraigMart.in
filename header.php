@@ -39,7 +39,7 @@
 					</ul>
 					-->
 				</li>
-				<li class="two columns"><a href="#">Test</a></li>
+				<!-- <li class="two columns"><a href="#">Test</a></li> -->
 				<!-- All active/recent('Minimized') links will be here. Active ones will have a nice glow. -->
 			</ul>
 			<ul class="four columns right">
