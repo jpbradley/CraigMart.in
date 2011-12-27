@@ -3,7 +3,7 @@
 	<footer class="row">
 		<div class="twelve columns">
 			<section class="left container">
-				<a href="LICENSE" title="Copyright" target="_blank">
+				<a href="copyright.php" title="Copyright">
 					<figure>
 						<img src="images/document-new.png" alt="Copyright"/>
 						<figcaption>Copyright</figcaption>
