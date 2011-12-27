@@ -4,7 +4,7 @@
 		<?php include("desktopicons.php"); ?>
 		
 		<section class="eight columns">
-			<header class="row graybar">
+			<header class="row graybar rounded-corners">
 				<div class="twelve columns">
 					<hgroup class="left container">
 						<h3>Introduction</h3>
@@ -14,14 +14,15 @@
 				</div>
 			</header>
 			<section class="row application">
-				<article class="five columns container">
+				<article class="four columns container">
 					<img src="images/bd_latin.png" />
 				</article>
-				<article class="six columns">
-					<h3 class="blue">Welcome</h3>
-					<p>
+				<article class="seven columns">
+					<h3 class="row blue">Welcome</h3>
+					<p class="row">
 						Welcome to my brand new domain! <br/>
-						My old website was built on top of Drupal. Unfortunately, my web host is too slow and Drupal is overkill for a personal portfolio.
+						My old website was built on top of Drupal and unfortunately, my web host is too slow. Drupal is overkill for a personal portfolio, 
+						so I will be building a simple website.
 						<br/><br/>
 						For this website, I am going back to the basics and will use HTML5/CSS3. 
 						I am trying to design this website to look like a desktop, however I am terrible at designing.
