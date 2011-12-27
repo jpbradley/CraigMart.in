@@ -9,7 +9,7 @@
 		<meta name="description" content="Personal portfolio for Craig Martin" />
 		<meta name="author" content="Craig Martin" />
 		<!-- Included CSS Files -->
-		<link rel="stylesheet" href="css/style.css" type="text/css">
+		<link rel="stylesheet" href="css/style.css?v=1" type="text/css">
 		
 		<link href="https://plus.google.com/103194485584180251423" rel="publisher" />
 		
