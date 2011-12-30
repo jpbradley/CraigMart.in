@@ -23,6 +23,9 @@
 		
 		<link rel="shortcut icon" href="/favicon.ico" />
 		
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script src="/js/app.js"></script>
+		
 		<script type="text/javascript">
 
 		  var _gaq = _gaq || [];
@@ -60,7 +63,7 @@
 								<li><a href="/portfolio/graphics/">Graphics</a></li>
 								<li><a href="/portfolio/software/">Software</a>
 									<ul>
-										<li><a href="#">Blackjack</a></li>
+										<li><a href="/portfolio/software/blackjack.php">Blackjack</a></li>
 									</ul>
 								</li>
 							</ul>
