@@ -23,7 +23,7 @@
 							</figure></a>
 						</li>
 						<li class="three columns">
-							<a href="craig/contact.php" title="contact.php"><figure>
+							<a href="/craig/contact.php" title="contact.php"><figure>
 								<img src="/images/document-new.png" alt="contact.php"/>
 								<figcaption>Contact.php</figcaption>
 							</figure></a>
