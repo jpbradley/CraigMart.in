@@ -42,7 +42,7 @@
 	<header id="topbar" class="graybar">
 		<nav id="menu_top" class="row">
 			<ul class="eight columns">
-				<li><a href="/"><img src="/images/cmButton.png" /></a>
+				<li><a href="/" title="Show Desktop"><img src="/images/cmButton.png" alt="CM Button"/></a>
 					<ul>
 						<li><a href="/craig.php">Craig</a>
 							<ul>

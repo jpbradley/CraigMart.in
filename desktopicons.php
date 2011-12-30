@@ -1,5 +1,5 @@
 <nav class="two columns container">
-	<a class="row" href="/"><figure class="desktop-icon">
+	<a class="row" href="/" title="Show Desktop"><figure class="desktop-icon">
 		<img src="/images/go-home.png" />
 		<figcaption>Home</figcaption>
 	</figure></a>
