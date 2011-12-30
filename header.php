@@ -9,7 +9,7 @@
 		<meta name="description" content="Personal portfolio for Craig Martin" />
 		<meta name="author" content="Craig Martin" />
 		<!-- Included CSS Files -->
-		<link rel="stylesheet" href="css/style.css?v=2" type="text/css">
+		<link rel="stylesheet" href="/css/style.css?v=2" type="text/css">
 		
 		<link href="https://plus.google.com/103194485584180251423" rel="publisher" />
 		
@@ -42,12 +42,12 @@
 	<header id="topbar" class="graybar">
 		<nav id="menu_top" class="row">
 			<ul class="eight columns">
-				<li><a href="/"><img src="images/cmButton.png" /></a>
+				<li><a href="/"><img src="/images/cmButton.png" /></a>
 					<ul>
-						<li><a href="#">Craig</a>
+						<li><a href="craig.php">Craig</a>
 							<ul>
-								<li><a href="#">About</a></li>
-								<li><a href="#">Contact</a></li>
+								<li><a href="/craig/about.php">About</a></li>
+								<li><a href="/craig/contact.php">Contact</a></li>
 							</ul>
 						</li>
 						<li><a href="#">Portfolio</a>
@@ -71,7 +71,7 @@
 			</ul>
 			<div class="four columns right">
 				<a class="right" href="https://github.com/DirtyRasa" title="Github" target="_blank">
-					<img src="images/Octocat_32.png" alt="Github" />
+					<img src="/images/Octocat_32.png" alt="Github" />
 				</a>
 				<!-- <li class="right"><a href="https://bitbucket.org/DirtyRasa" title="Bitbucket" target="_blank">
 					<img src="images/Bitbucket_32.png" alt="Bitbucket" />

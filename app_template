@@ -1,7 +1,7 @@
-<?php include("header.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/header.php'); ?>
 	
 	<section class="row">
-		<?php include("desktopicons.php"); ?>
+		<?php include($_SERVER['DOCUMENT_ROOT'].'/desktopicons.php'); ?>
 		
 		<section class="eight columns">
 			<header class="row graybar rounded-corners">
@@ -10,7 +10,7 @@
 						<h3></h3>
 					</hgroup>
 					
-					<?php include("windowButtons.php"); ?>
+					<?php include($_SERVER['DOCUMENT_ROOT'].'/windowButtons.php'); ?>
 				</div>
 			</header>
 			<section class="row application">
@@ -19,4 +19,4 @@
 		</section>
 	</section>
 	
-<?php include("footer.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>

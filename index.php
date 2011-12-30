@@ -1,7 +1,7 @@
-<?php include("header.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/header.php'); ?>
 	
 	<section class="row">
-		<?php include("desktopicons.php"); ?>
+		<?php include($_SERVER['DOCUMENT_ROOT'].'/desktopicons.php'); ?>
 	</section>
 	
-<?php include("footer.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>

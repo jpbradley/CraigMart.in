@@ -3,9 +3,9 @@
 	<footer class="row">
 		<div class="twelve columns">
 			<section class="left container">
-				<a href="copyright.php" title="Copyright">
+				<a href="/copyright.php" title="Copyright">
 					<figure>
-						<img src="images/document-new.png" alt="Copyright"/>
+						<img src="/images/document-new.png" alt="Copyright"/>
 						<figcaption>Copyright</figcaption>
 					</figure>
 				</a>
@@ -15,7 +15,7 @@
 			<section class="right container">
 				<a href="#" title="Archive">
 					<figure>
-						<img src="images/recycle.png" alt="Archive" />
+						<img src="/images/recycle.png" alt="Archive" />
 						<figcaption>Archive</figcaption>
 					</figure>
 				</a>
