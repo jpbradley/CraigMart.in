@@ -17,7 +17,7 @@
 				<ul class="row">
 					<li class="two columns">
 						<a href="/portfolio/electrical/" title="electrical"><figure>
-							<img src="/images/document-open.png" alt="aelectrical"/>
+							<img src="/images/document-open.png" alt="electrical"/>
 							<figcaption>Electrical</figcaption>
 						</figure></a>
 					</li>
