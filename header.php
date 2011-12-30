@@ -50,15 +50,15 @@
 								<li><a href="/craig/contact.php">Contact</a></li>
 							</ul>
 						</li>
-						<li><a href="#">Portfolio</a>
+						<li><a href="/portfolio/">Portfolio</a>
 							<ul>
-								<li><a href="#">Electrical</a>
+								<li><a href="/portfolio/electrical/">Electrical</a>
 									<ul>
 										<li><a href="#">Senior Design</a></li>
 									</ul>
 								</li>
-								<li><a href="#">Graphics</a></li>
-								<li><a href="#">Software</a>
+								<li><a href="/portfolio/graphics/">Graphics</a></li>
+								<li><a href="/portfolio/software/">Software</a>
 									<ul>
 										<li><a href="#">Blackjack</a></li>
 									</ul>
