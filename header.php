@@ -9,7 +9,7 @@
 		<meta name="description" content="Personal portfolio for Craig Martin" />
 		<meta name="author" content="Craig Martin" />
 		<!-- Included CSS Files -->
-		<link rel="stylesheet" href="css/style.css?v=1" type="text/css">
+		<link rel="stylesheet" href="css/style.css?v=2" type="text/css">
 		
 		<link href="https://plus.google.com/103194485584180251423" rel="publisher" />
 		
@@ -40,26 +40,31 @@
 <body>
 	<div id="wrapper">
 	<header id="topbar" class="graybar">
-		<nav class="row">
+		<nav id="menu_top" class="row">
 			<ul class="eight columns">
-				<li class="two columns"><a href="/">CRM</a>
-					<!--
+				<li><a href="/"><img src="images/cmButton.png" /></a>
 					<ul>
-						<li class="two columns"><a href="#">About</a>
+						<li><a href="#">Craig</a>
 							<ul>
-								<li class="two columns"><a href="#">Contact</a></li>
+								<li><a href="#">About</a></li>
+								<li><a href="#">Contact</a></li>
+							</ul>
+						</li>
+						<li><a href="#">Portfolio</a>
+							<ul>
+								<li><a href="#">Electrical</a></li>
+								<li><a href="#">Graphics</a></li>
+								<li><a href="#">Software</a></li>
 							</ul>
 						</li>
 					</ul>
-					-->
 				</li>
-				<!-- <li class="two columns"><a href="#">Test</a></li> -->
 				<!-- All active/recent('Minimized') links will be here. Active ones will have a nice glow. -->
 			</ul>
-			<ul class="four columns right">
-				<li class="right"><a href="https://github.com/DirtyRasa" title="Github" target="_blank">
+			<div class="four columns right">
+				<a class="right" href="https://github.com/DirtyRasa" title="Github" target="_blank">
 					<img src="images/Octocat_32.png" alt="Github" />
-				</a></li>
+				</a>
 				<!-- <li class="right"><a href="https://bitbucket.org/DirtyRasa" title="Bitbucket" target="_blank">
 					<img src="images/Bitbucket_32.png" alt="Bitbucket" />
 				</a></li> -->
@@ -71,11 +76,11 @@
 					<img src="images/twitter_logo_32.png" alt="Twitter" />
 				</a></li>
 				-->
-				<li class="right"><a href="https://plus.google.com/103194485584180251423?prsrc=3" title="Google+" target="_blank">
+				<a class="right" href="https://plus.google.com/103194485584180251423?prsrc=3" title="Google+" target="_blank">
 					<img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="G+" />
-				</a></li>
+				</a>
 				
 				<strong class="right container">Follow me on</strong>
-			</ul>
+			</div>
 		</nav>
 	</header>

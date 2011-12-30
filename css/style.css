@@ -251,6 +251,98 @@
 	
 	#topbar { margin-bottom: 100px; }
 	
+	
+	
 	#wrapper { min-height: 100%; height: auto !important; height: 100%; margin: 0 auto -80px; }
 	
 	footer { height: 80px; }
+	
+/* --------------------------------------------------
+	:: Top Drop Down Menu
+		
+	-------------------------------------------------- */
+	
+	#menu_top {	padding-top: 9px; }
+	
+	
+	#menu_top ul {
+	    display: block;
+	    float: left;
+  	}
+  	
+ 	#menu_top ul, nav#menu_top ul ul {
+	    margin: 0;
+	    list-style: none;
+	    padding: 0;
+	}
+  
+  	#menu_top ul li {
+	    float: left;
+	    padding: 0 10px;
+  	}
+  
+  	#menu_top ul a{
+	    display: block;
+	    vertical-align: middle;
+	    text-align: left;
+	    text-decoration: none;
+	    font: bold 14px Trebuchet MS, sans-serif;
+	    color: #DADEE1;
+	    text-shadow: #DADEE1 0 0 5px;
+  	}
+  
+  	
+  	#menu_top ul ul li:hover>a {
+	    background-color: #DADEE1;
+	    color: #494343;
+	    text-shadow: #494343 0 0 0px;
+  	}
+  
+  /**
+    Second Level
+  */
+  	#menu_top ul ul {
+	    left: 13%;
+	    padding: 0 5px;
+	    display: none;
+	    width: 6em;
+	    top: 100%;
+	    position: absolute;
+	    border: 2px solid #DADEE1;
+	    background-color:#494343;
+  	}
+  
+  	#menu_top ul ul a {
+	    color: #DADEE1;
+	    text-shadow: #DADEE1 0 0 0px;
+	    padding: 5px 0;
+  	}
+
+  	#menu_top ul ul li {
+	    float: none;
+	    padding: 0;
+  	}
+  
+  /**
+    Third Level
+  */
+  	#menu_top ul ul ul {
+	    position: absolute;
+	    width: 150px;
+	    left: 100%;
+	    top: 0;
+  	}
+  	
+	/*
+	 * Activate Drop Down
+	 */
+	#menu_top ul li:hover > ul { display: block; } /* Matches any ul that is a child of a ul li */
+	
+	#menu_top ul li:hover { position: relative; }
+	
+	
+	
+	
+	
+	
+	
