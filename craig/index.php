@@ -16,20 +16,18 @@
 			<section class="row application">
 				<div class="twelve columns">
 					<ul class="row">
-						<li class="three columns">
+						<li class="two columns">
 							<a href="/craig/about.php" title="about.php"><figure>
 								<img src="/images/document-new.png" alt="about.php"/>
 								<figcaption>About.php</figcaption>
 							</figure></a>
 						</li>
-						<li class="three columns">
+						<li class="two columns">
 							<a href="/craig/contact.php" title="contact.php"><figure>
 								<img src="/images/document-new.png" alt="contact.php"/>
 								<figcaption>Contact.php</figcaption>
 							</figure></a>
 						</li>
-						<li class="three columns"></li>
-						<li class="three columns"></li>
 					</ul>
 				</div>
 			</section>

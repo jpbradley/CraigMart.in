@@ -15,19 +15,19 @@
 			</header>
 			<section class="row application">
 				<ul class="row">
-					<li class="three columns">
+					<li class="two columns">
 						<a href="/portfolio/electrical/" title="electrical"><figure>
 							<img src="/images/document-open.png" alt="aelectrical"/>
 							<figcaption>Electrical</figcaption>
 						</figure></a>
 					</li>
-					<li class="three columns">
+					<li class="two columns">
 						<a href="/portfolio/graphics/" title="graphics"><figure>
 							<img src="/images/document-open.png" alt="graphics"/>
 							<figcaption>Graphics</figcaption>
 						</figure></a>
 					</li>
-					<li class="three columns">
+					<li class="two columns">
 						<a href="/portfolio/software/" title="software"><figure>
 							<img src="/images/document-open.png" alt="software"/>
 							<figcaption>Software</figcaption>
