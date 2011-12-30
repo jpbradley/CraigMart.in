@@ -15,7 +15,7 @@
 			</header>
 			<section class="row application">
 				<article class="four columns container">
-					<img src="/images/profile.png" />
+					<img src="/images/craig/profile.png" />
 				</article>
 				<article class="seven columns">
 					<p>
