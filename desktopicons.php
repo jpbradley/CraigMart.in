@@ -1,4 +1,4 @@
-<nav class="two columns container">
+<nav class="one columns container">
 	<a class="row" href="/" title="Show Desktop"><figure class="desktop-icon">
 		<img src="/images/go-home.png" alt="Show Desktop"/>
 		<figcaption>Home</figcaption>
@@ -12,3 +12,4 @@
 		<figcaption>Intro.php</figcaption>
 	</figure></a>
 </nav>
+<div class="one columns"></div>
