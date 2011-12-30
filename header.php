@@ -52,9 +52,17 @@
 						</li>
 						<li><a href="#">Portfolio</a>
 							<ul>
-								<li><a href="#">Electrical</a></li>
+								<li><a href="#">Electrical</a>
+									<ul>
+										<li><a href="#">Senior Design</a></li>
+									</ul>
+								</li>
 								<li><a href="#">Graphics</a></li>
-								<li><a href="#">Software</a></li>
+								<li><a href="#">Software</a>
+									<ul>
+										<li><a href="#">Blackjack</a></li>
+									</ul>
+								</li>
 							</ul>
 						</li>
 					</ul>
