@@ -44,7 +44,7 @@
 			<ul class="eight columns">
 				<li><a href="/" title="Show Desktop"><img src="/images/cmButton.png" alt="CM Button"/></a>
 					<ul>
-						<li><a href="/craig.php">Craig</a>
+						<li><a href="/craig/">Craig</a>
 							<ul>
 								<li><a href="/craig/about.php">About</a></li>
 								<li><a href="/craig/contact.php">Contact</a></li>
