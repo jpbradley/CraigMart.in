@@ -15,7 +15,7 @@
 			</header>
 			<section class="row application">
 				<article class="four columns container">
-					<img src="images/bd_latin.png" />
+					<img src="/images/bd_latin.png" />
 				</article>
 				<article class="seven columns">
 					<h3 class="row blue">Welcome</h3>
