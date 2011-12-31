@@ -14,6 +14,7 @@
 				</div>
 			</header>
 			<section class="row application">
+				<div class="container">
 				<ul class="row">
 					<li class="two columns">
 						<a href="/portfolio/software/blackjack.php" title="Blackjack.php"><figure>
@@ -22,6 +23,7 @@
 						</figure></a>
 					</li>
 				</ul>
+				</div>
 			</section>
 		</section>
 	</section>

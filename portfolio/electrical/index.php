@@ -14,7 +14,7 @@
 				</div>
 			</header>
 			<section class="row application">
-			
+				<div class="container"></div>
 			</section>
 		</section>
 	</section>

@@ -14,7 +14,7 @@
 				</div>
 			</header>
 			<section class="row application">
-				<div class="twelve columns">
+				<div class="container">
 					<ul class="row">
 						<li class="two columns">
 							<a href="/craig/about.php" title="about.php"><figure>

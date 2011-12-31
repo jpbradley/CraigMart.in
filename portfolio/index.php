@@ -14,6 +14,7 @@
 				</div>
 			</header>
 			<section class="row application">
+				<div class="container">
 				<ul class="row">
 					<li class="two columns">
 						<a href="/portfolio/electrical/" title="electrical"><figure>
@@ -34,6 +35,7 @@
 						</figure></a>
 					</li>
 				</ul>
+				</div>
 			</section>
 		</section>
 	</section>
