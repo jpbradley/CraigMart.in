@@ -85,7 +85,7 @@
 	:: Lists
 	-------------------------------------------------- */
 	ul { list-style: none outside; }
-	li { padding: 0 2%; }
+	/*li { padding: 0 2%; }*/
 	/*ul, ol { margin-bottom: 18px; }	
 	ol { list-style: decimal; }
 	ol, ul.square, ul.circle, ul.disc { margin-left: 30px; }
@@ -261,27 +261,27 @@
 		
 	-------------------------------------------------- */
 	
-	#menu_top {	padding-top: 9px; }
+	.menu_top {	padding-top: 9px; }
 	
 	
-	#menu_top ul {
+	#drop_down ul {
 	    display: block;
 	    float: left;
 	    z-index: 1000;
   	}
   	
- 	#menu_top ul, nav#menu_top ul ul {
+ 	#drop_down ul, nav#drop_down ul ul {
 	    margin: 0;
 	    list-style: none;
 	    padding: 0;
 	}
   
-  	#menu_top ul li {
+  	#drop_down ul li {
 	    float: left;
 	    padding: 0 10px;
   	}
   
-  	#menu_top ul a{
+  	#drop_down ul a{
 	    display: block;
 	    vertical-align: middle;
 	    text-align: left;
@@ -292,7 +292,7 @@
   	}
   
   	
-  	#menu_top ul ul li:hover>a {
+  	#drop_down ul ul li:hover>a {
 	    background-color: #DADEE1;
 	    color: #494343;
 	    text-shadow: #494343 0 0 0px;
@@ -301,7 +301,7 @@
   /**
     Second Level
   */
-  	#menu_top ul ul {
+  	#drop_down ul ul {
 	    left: 13%;
 	    padding: 0 5px;
 	    display: none;
@@ -312,13 +312,13 @@
 	    background-color:#494343;
   	}
   
-  	#menu_top ul ul a {
+  	#drop_down ul ul a {
 	    color: #DADEE1;
 	    text-shadow: #DADEE1 0 0 0px;
 	    padding: 5px 5px;
   	}
 
-  	#menu_top ul ul li {
+  	#drop_down ul ul li {
 	    float: none;
 	    padding: 0;
   	}
@@ -326,7 +326,7 @@
   /**
     Third Level
   */
-  	#menu_top ul ul ul {
+  	#drop_down ul ul ul {
 	    position: absolute;
 	    width: 150px;
 	    left: 100%;
@@ -336,9 +336,9 @@
 	/*
 	 * Activate Drop Down
 	 */
-	#menu_top ul li:hover > ul { display: block; } /* Matches any ul that is a child of a ul li */
+	#drop_down ul li:hover > ul { display: block; } /* Matches any ul that is a child of a ul li */
 	
-	#menu_top ul li:hover { position: relative; }
+	#drop_down ul li:hover { position: relative; }
 	
 	
 	

@@ -42,9 +42,9 @@
 	</head>
 <body>
 	<div id="wrapper">
-	<header id="topbar" class="graybar">
-		<nav id="menu_top" class="row">
-			<ul class="eight columns">
+	<header id="topbar" class="row graybar">
+		<nav id="drop_down" class="eight columns menu_top">
+			<ul>
 				<li><a href="/desktop.php" title="Show Desktop"><img src="/images/cmButton.png" alt="CM Button"/></a>
 					<ul>
 						<li><a href="/craig/">Craig</a>
@@ -72,10 +72,18 @@
 				</li>
 				<!-- All active/recent('Minimized') links will be here. Active ones will have a nice glow. -->
 			</ul>
-			<div class="four columns right">
-				<a class="right" href="https://github.com/DirtyRasa" title="Github" target="_blank">
+		</nav>
+		<nav class="four columns menu_top">
+			<ul class="row">
+				
+				<li class="six columns"><strong>Follow me on</strong></li>
+				
+				<div class="two columns"></div>
+				
+				<li class="two columns">
+				<a href="https://github.com/DirtyRasa" title="Github" target="_blank">
 					<img src="/images/Octocat_32.png" alt="Github" />
-				</a>
+				</a></li>
 				<!-- <li class="right"><a href="https://bitbucket.org/DirtyRasa" title="Bitbucket" target="_blank">
 					<img src="images/Bitbucket_32.png" alt="Bitbucket" />
 				</a></li> -->
@@ -87,11 +95,9 @@
 					<img src="images/twitter_logo_32.png" alt="Twitter" />
 				</a></li>
 				-->
-				<a class="right" href="https://plus.google.com/103194485584180251423?prsrc=3" title="Google+" target="_blank">
+				<li class="two columns"><a href="https://plus.google.com/103194485584180251423?prsrc=3" title="Google+" target="_blank">
 					<img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="G+" />
-				</a>
-				
-				<strong class="right container">Follow me on</strong>
-			</div>
+				</a></li>
+			</ul>
 		</nav>
 	</header>
