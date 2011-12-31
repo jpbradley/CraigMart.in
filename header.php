@@ -78,10 +78,9 @@
 				
 				<li class="six columns"><strong>Follow me on</strong></li>
 				
-				<div class="two columns"></div>
+				<li class="two columns"></li>
 				
-				<li class="two columns">
-				<a href="https://github.com/DirtyRasa" title="Github" target="_blank">
+				<li class="two columns"><a href="https://github.com/DirtyRasa" title="Github" target="_blank">
 					<img src="/images/Octocat_32.png" alt="Github" />
 				</a></li>
 				<!-- <li class="right"><a href="https://bitbucket.org/DirtyRasa" title="Bitbucket" target="_blank">
