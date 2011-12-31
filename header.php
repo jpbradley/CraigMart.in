@@ -9,7 +9,7 @@
 		<meta name="description" content="Personal portfolio for Craig Martin" />
 		<meta name="author" content="Craig Martin" />
 		<!-- Included CSS Files -->
-		<link rel="stylesheet" href="/css/style.css?v=2" type="text/css">
+		<link rel="stylesheet" href="/css/style.css?v=beta_1" type="text/css">
 		
 		<link href="https://plus.google.com/103194485584180251423" rel="publisher" />
 		
@@ -45,7 +45,7 @@
 	<header id="topbar" class="graybar">
 		<nav id="menu_top" class="row">
 			<ul class="eight columns">
-				<li><a href="/" title="Show Desktop"><img src="/images/cmButton.png" alt="CM Button"/></a>
+				<li><a href="/desktop.php" title="Show Desktop"><img src="/images/cmButton.png" alt="CM Button"/></a>
 					<ul>
 						<li><a href="/craig/">Craig</a>
 							<ul>
