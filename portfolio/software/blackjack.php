@@ -51,11 +51,11 @@
 				<p>The game functions well and sometimes can be frustrating because it feels like the dealer cheats.</p>
 				<p>If you would like to try this game out, you will need a few things first before you can run the server 
 					successfully as well as play on the client.</p>
-				<p>Download and install <a href="http://www.oracle.com/technetwork/java/javase/downloads/jre-6u25-download-346243.html">JRE</a><br />
-					Download and install <a href="http://www.microsoft.com/sqlserver/en/us/editions/express.aspx">SQL Server Express</a><br />
-					SQL server will need to be configured to allow <a href="http://msdn.microsoft.com/en-us/library/bb909712%28v=vs.90%29.aspx">TCP/IP ports</a><br />
-					Finally, the server, client, and SQL scripts can be found at our <a href="http://code.google.com/p/cisc370-finalproject/downloads/list">Google code page</a><br />
-					For more information about the project, you can look around the our <a href="http://code.google.com/p/cisc370-finalproject/">Google code page.</a></p>
+				<p>Download and install <a href="http://www.oracle.com/technetwork/java/javase/downloads/jre-6u25-download-346243.html" target="_blank">JRE</a><br />
+					Download and install <a href="http://www.microsoft.com/sqlserver/en/us/editions/express.aspx" target="_blank">SQL Server Express</a><br />
+					SQL server will need to be configured to allow <a href="http://msdn.microsoft.com/en-us/library/bb909712%28v=vs.90%29.aspx" target="_blank">TCP/IP ports</a><br />
+					Finally, the server, client, and SQL scripts can be found at our <a href="http://code.google.com/p/cisc370-finalproject/downloads/list" target="_blank">Google code page</a><br />
+					For more information about the project, you can look around the our <a href="http://code.google.com/p/cisc370-finalproject/" target="_blank">Google code page.</a></p>
 				</article>
 			</section>
 		</section>
