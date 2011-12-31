@@ -32,6 +32,9 @@
 						Maybe I'll work on how the website looks too... I just need to find some time or extend the day!
 						<br/> So far I have been able to get the basic website design completed. There are a few touch ups
 						that I need to keep doing, but I figured this was a good starting place.
+						<br/><br/>
+						If you find any issues or have suggestions about the website please feel free to <a href="mailto:admin@craigmart.in">email</a> me
+						or go to my <a href="https://github.com/DirtyRasa/CraigMart.in/issues" title="Github" target="_blank">Github</a> and log an issue/enhancement.				
 					</p>
 				</article>
 			</section>
