@@ -84,7 +84,7 @@
 /*	--------------------------------------------------
 	:: Lists
 	-------------------------------------------------- */
-	ul { list-style: none outside; }
+	/*ul { list-style: none outside; }*/
 	/*li { padding: 0 2%; }*/
 	/*ul, ol { margin-bottom: 18px; }	
 	ol { list-style: decimal; }
