@@ -19,7 +19,7 @@
 			<section class="row application">
 				<article class="eleven columns container">
 					<p> 
-						Copyright (C) 2010-2011 Craig Martin
+						Copyright (C) 2010-2012 Craig Martin
 						<br/><br/>
 						Permission is hereby granted, free of charge, to any person obtaining a copy of<br/>
 						this software and associated documentation files (the "Software"), to deal in<br/>
