@@ -13,6 +13,9 @@
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/windowButtons.php'); ?>
 				</div>
 			</header>
+			
+			<?php include($_SERVER['DOCUMENT_ROOT'].'/toolbar.php'); ?>
+			
 			<section class="row application">
 				<article class="container">
 				<p>For my Networking class , my team and I were told to create a program that used TCP/IP. 

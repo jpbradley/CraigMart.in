@@ -240,11 +240,15 @@
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#494343', endColorstr='#2d2a2a',GradientType=0 ); /* IE6-9 */
 	}
 	
+	.toolbar { background: #2d2a2a; height: 25px; color: #DADEE1; }
+	
+	.toolbar a { color: #1C9FD3; text-decoration: none; }
+	
 	.rounded-corners { -moz-border-radius-topleft: 10px; border-top-left-radius: 10px; -moz-border-radius-topright: 10px; border-top-right-radius: 10px;}
 	
 	.application { overflow: auto; background: #DADEE1; padding: 15px 0; -moz-box-shadow: 5px 5px 5px #494343; -webkit-box-shadow: 5px 5px 5px #494343; box-shadow: 5px 5px 5px #494343;}
 	
-	.blue {color: #1C9FD3; }
+	.blue { color: #1C9FD3; }
 	
 	.desktop-icon { margin-bottom: 15px; }
 	

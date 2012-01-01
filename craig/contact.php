@@ -13,6 +13,9 @@
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/windowButtons.php'); ?>
 				</div>
 			</header>
+			
+			<?php include($_SERVER['DOCUMENT_ROOT'].'/toolbar.php'); ?>
+			
 			<section class="row application">
 				<h4 class="blue container">
 				If you want to get in touch with me, <a href="mailto:admin@craigmart.in">email</a> is best.

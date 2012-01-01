@@ -13,6 +13,9 @@
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/windowButtons.php'); ?>
 				</div>
 			</header>
+			
+			<?php include($_SERVER['DOCUMENT_ROOT'].'/toolbar.php'); ?>
+			
 			<section class="row application">
 				<article class="four columns container">
 					<img src="/images/craig/profile.png" />
