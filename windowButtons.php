@@ -1,5 +1,8 @@
-<nav class="right" style="padding-top: 15px;">
-	<a class="container" href="#" title="Minimize"><img src="/images/minimize.png" alt="Minimize"/></a>
-	<img src="/images/square.png" alt="Read More"/>
-	<a class="container" href="/desktop.php" title="Home"><img src="/images/close.png" alt="Home"/></a>
+<div class="four columns"></div>
+<nav class="two columns right">
+	<ul class="row" style="padding-top: 15px;">
+		<li class="three columns"><a href="#" title="Minimize"><img src="/images/minimize.png" alt="Minimize"/></a></li>
+		<li class="three columns"><img src="/images/square.png" alt="Read More"/></li>
+		<li class="three columns"><a href="/desktop.php" title="Home"><img src="/images/close.png" alt="Home"/></a></li>
+	</ul>
 </nav>

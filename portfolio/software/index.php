@@ -4,15 +4,15 @@
 		<?php include($_SERVER['DOCUMENT_ROOT'].'/desktopicons.php'); ?>
 		
 		<section class="eight columns">
-			<header class="row graybar rounded-corners">
-				<div class="twelve columns">
-					<hgroup class="left container">
+			<div class="container graybar rounded-corners">
+				<header class="row">
+					<hgroup class="six columns">
 						<h3>Software</h3>
 					</hgroup>
-					
+						
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/windowButtons.php'); ?>
-				</div>
-			</header>
+				</header>
+			</div>
 			
 			<?php include($_SERVER['DOCUMENT_ROOT'].'/toolbar.php'); ?>
 			

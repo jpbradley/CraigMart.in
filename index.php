@@ -4,15 +4,15 @@
 		<?php include($_SERVER['DOCUMENT_ROOT'].'/desktopicons.php'); ?>
 		
 		<section class="eight columns">
-			<header class="row graybar rounded-corners">
-				<div class="twelve columns">
-					<hgroup class="left container">
+			<div class="container graybar rounded-corners">
+				<header class="row">
+					<hgroup class="six columns">
 						<h3>Introduction</h3>
 					</hgroup>
-					
+						
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/windowButtons.php'); ?>
-				</div>
-			</header>
+				</header>
+			</div>
 			
 			<?php include($_SERVER['DOCUMENT_ROOT'].'/toolbar.php'); ?>
 			
@@ -37,7 +37,7 @@
 						that I need to keep doing, but I figured this was a good starting place.
 						<br/><br/>
 						If you find any issues or have suggestions about the website please feel free to <a href="mailto:admin@craigmart.in">email</a> me
-						or go to my <a href="https://github.com/DirtyRasa/CraigMart.in/issues" target="_blank">Github</a> and log an issue/enhancement.				
+						or go to my <a href="https://github.com/DirtyRasa/CraigMart.in/issues" title="Github" target="_blank">Github</a> and log an issue/enhancement.				
 					</p>
 				</article>
 			</section>
