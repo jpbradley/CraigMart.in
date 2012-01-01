@@ -3,6 +3,10 @@
 		<img src="/images/go-home.png" alt="Show Desktop"/>
 		<figcaption>Home</figcaption>
 	</figure></a>
+	<a class="row" href="/myWebsite.php" title="My Website"><figure class="desktop-icon">
+		<img src="/images/document-open.png" alt="Show Desktop"/>
+		<figcaption>My Website</figcaption>
+	</figure></a>
 	<a class="row" href="/portfolio/" title="Portfolio"><figure class="desktop-icon">
 		<img src="/images/document-open.png" alt="Portfolio" />
 		<figcaption>Portfolio</figcaption>
