@@ -78,7 +78,6 @@
 				
 				<li class="six columns"><strong>Follow me on</strong></li>
 				
-				<li class="two columns"></li>
 				
 				<li class="two columns"><a href="https://github.com/DirtyRasa" title="Github" target="_blank">
 					<img src="/images/Octocat_32.png" alt="Github" />
@@ -89,11 +88,10 @@
 				<!--
 				<li class="two columns"><a href="#" title="Facebook" target="_blank">
 					<img src="images/f_logo_32.png" alt="Facebook" />
-				</a></li>
-				<li class="two columns"><a href="" title="Twitter" target="_blank">
-					<img src="images/twitter_logo_32.png" alt="Twitter" />
-				</a></li>
-				-->
+				</a></li>-->
+				<li class="two columns"><a href="https://twitter.com/#!/Craig_DR" title="Twitter" target="_blank">
+					<img src="/images/twitter_logo_32.png" alt="Twitter" />
+				</a></li>				
 				<li class="two columns"><a href="https://plus.google.com/103194485584180251423?prsrc=3" title="Google+" target="_blank">
 					<img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="G+" />
 				</a></li>
