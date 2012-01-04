@@ -1,7 +1,7 @@
-<?php include($_SERVER['DOCUMENT_ROOT'].'/Includes/header.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php'); ?>
 	
 	<section class="row">
-		<?php include($_SERVER['DOCUMENT_ROOT'].'/Includes/desktopicons.php'); ?>
+		<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/desktopicons.php'); ?>
 		
 		<section class="eight columns">
 			<div class="container graybar rounded-corners">
@@ -10,11 +10,11 @@
 						<h3>Electrical</h3>
 					</hgroup>
 						
-					<?php include($_SERVER['DOCUMENT_ROOT'].'/Includes/windowButtons.php'); ?>
+					<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/windowButtons.php'); ?>
 				</header>
 			</div>
 			
-			<?php include($_SERVER['DOCUMENT_ROOT'].'/Includes/toolbar.php'); ?>
+			<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/toolbar.php'); ?>
 			
 			<section class="row application">
 				<div class="container"></div>
@@ -22,4 +22,4 @@
 		</section>
 	</section>
 	
-<?php include($_SERVER['DOCUMENT_ROOT'].'/Includes/footer.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php'); ?>
