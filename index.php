@@ -1,47 +1,58 @@
-<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php'); ?>
+<?php 
+$page = $_GET['p'];
+
+if($page == 'desktop') {
+	include($_SERVER['DOCUMENT_ROOT'].'/tpl/base.tpl.php');
+} else {
+	$title = '';
+	$include = '';
+	switch ($page) {
+		case 'copyright':
+			$title = 'Copyright';
+			$include = '/copyright.php';
+			break;
+		case 'myWebsite':
+			$title = 'My Website';
+			$include = '/myWebsite.php';
+			break;
+		case 'craig':
+			$title = 'Craig';
+			$include = '/craig/index.php';
+			break;
+		case 'craig/about':
+			$title = 'About';
+			$include = '/craig/about.php';
+			break;
+		case 'craig/contact':
+			$title = 'Contact';
+			$include = '/craig/contact.php';
+			break;
+		case 'portfolio':
+			$title = 'Portfolio';
+			$include = '/portfolio/index.php';
+			break;
+		case 'portfolio/electrical':
+			$title = 'Electrical';
+			$include = '/portfolio/electrical/index.php';
+			break;
+		case 'portfolio/graphics':
+			$title = 'Graphics';
+			$include = '/portfolio/graphics/index.php';
+			break;
+		case 'portfolio/software':
+			$title = 'Software';
+			$include = '/portfolio/software/index.php';
+			break;
+		case 'portfolio/software/blackjack':
+			$title = 'Blackjack';
+			$include = '/portfolio/software/blackjack.php';
+			break;
+		default:
+			$title = 'Introduction';
+			$include = '/intro.php';
+			break;
+	}
 	
-	<section class="row">
-		<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/desktopicons.php'); ?>
-		
-		<section class="eight columns">
-			<div class="container graybar rounded-corners">
-				<header class="row">
-					<hgroup class="six columns">
-						<h3>Introduction</h3>
-					</hgroup>
-						
-					<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/windowButtons.php'); ?>
-				</header>
-			</div>
-			
-			<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/toolbar.php'); ?>
-			
-			<section class="row application">
-				<article class="four columns container">
-					<img src="/images/bd_latin.png" />
-				</article>
-				<article class="seven columns">
-					<h3 class="row blue">Welcome</h3>
-					<p class="row">
-						Welcome to my brand new domain! <br/>
-						My old website was built on top of Drupal and unfortunately, my web host is too slow. Drupal is overkill for a personal portfolio, 
-						so I will be building a simple website.
-						<br/><br/>
-						For this website, I am going back to the basics and will use HTML5/CSS3. 
-						I am trying to design this website to look like a desktop, however I am terrible at designing.
-						Eventually I will add a lot of functionality through PHP/Javascript to make this website pop 
-						and hide the fact that this website doesn't look elegant.
-						<br/><br/>
-						Maybe I'll work on how the website looks too... I just need to find some time or extend the day!
-						<br/> So far I have been able to get the basic website design completed. There are a few touch ups
-						that I need to keep doing, but I figured this was a good starting place.
-						<br/><br/>
-						If you find any issues or have suggestions about the website please feel free to <a href="mailto:admin@craigmart.in">email</a> me
-						or go to my <a href="https://github.com/DirtyRasa/CraigMart.in/issues" title="Github" target="_blank">Github</a> and log an issue/enhancement.				
-					</p>
-				</article>
-			</section>
-		</section>
-	</section>
-	
-<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php'); ?>
+	include($_SERVER['DOCUMENT_ROOT'].'/tpl/app.tpl.php');
+}
+

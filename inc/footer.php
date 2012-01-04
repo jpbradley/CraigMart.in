@@ -5,7 +5,7 @@
 		<nav class="container">
 			<ul class="row">
 				<li class="one columns">
-					<a href="/copyright.php" title="Copyright">
+					<a href="/index.php?p=copyright" title="Copyright">
 						<figure>
 							<img src="/images/document-new.png" alt="Copyright"/>
 							<figcaption>Copyright</figcaption>

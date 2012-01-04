@@ -45,25 +45,21 @@
 	<header id="topbar" class="row graybar">
 		<nav id="drop_down" class="eight columns menu_top">
 			<ul>
-				<li><a href="/desktop.php" title="Show Desktop"><img src="/images/cmButton.png" alt="CM Button"/></a>
+				<li><a href="/index.php?p=desktop" title="Show Desktop"><img src="/images/cmButton.png" alt="CM Button"/></a>
 					<ul>
-						<li><a href="/craig/">Craig</a>
+						<li><a href="/index.php?p=craig">Craig</a>
 							<ul>
-								<li><a href="/craig/about.php">About</a></li>
-								<li><a href="/craig/contact.php">Contact</a></li>
+								<li><a href="/index.php?p=craig/about">About</a></li>
+								<li><a href="/index.php?p=craig/contact">Contact</a></li>
 							</ul>
 						</li>
-						<li><a href="/portfolio/">Portfolio</a>
+						<li><a href="/index.php?p=portfolio">Portfolio</a>
 							<ul>
-								<li><a href="/portfolio/electrical/">Electrical</a>
+								<li><a href="/index.php?p=portfolio/electrical">Electrical</a></li>
+								<li><a href="/index.php?p=portfolio/graphics">Graphics</a></li>
+								<li><a href="/index.php?p=portfolio/software">Software</a>
 									<ul>
-										<li><a href="#">Senior Design</a></li>
-									</ul>
-								</li>
-								<li><a href="/portfolio/graphics/">Graphics</a></li>
-								<li><a href="/portfolio/software/">Software</a>
-									<ul>
-										<li><a href="/portfolio/software/blackjack.php">Blackjack</a></li>
+										<li><a href="/index.php?p=portfolio/software/blackjack">Blackjack</a></li>
 									</ul>
 								</li>
 							</ul>
