@@ -1,3 +1,4 @@
+	</section>
 	</div><!-- #wrapper  From header -->
 	<!-- It would be nice if this was at the very bottom of the screen at all times -->
 	<footer>

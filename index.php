@@ -1,8 +1,10 @@
 <?php 
 $page = $_GET['p'];
 
+include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');
+
 if($page == 'desktop') {
-	include($_SERVER['DOCUMENT_ROOT'].'/tpl/base.tpl.php');
+	//include($_SERVER['DOCUMENT_ROOT'].'/tpl/base.tpl.php');
 } else {
 	$title = '';
 	$include = '';
@@ -47,6 +49,10 @@ if($page == 'desktop') {
 			$title = 'Blackjack';
 			$include = '/portfolio/software/blackjack.php';
 			break;
+		case 'guides':
+			$title = 'Guides';
+			$include = '/guides/index.php';
+			break;
 		default:
 			$title = 'Introduction';
 			$include = '/intro.php';
@@ -55,4 +61,6 @@ if($page == 'desktop') {
 	
 	include($_SERVER['DOCUMENT_ROOT'].'/tpl/app.tpl.php');
 }
+
+include($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php');
 

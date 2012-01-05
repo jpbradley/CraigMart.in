@@ -94,3 +94,5 @@
 			</ul>
 		</nav>
 	</header>
+	<section class="row">
+		<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/desktopicons.php'); ?>
