@@ -55,7 +55,11 @@
 						</li>
 						<li><a href="/index.php?p=portfolio">Portfolio</a>
 							<ul>
-								<li><a href="/index.php?p=portfolio/electrical">Electrical</a></li>
+								<li><a href="/index.php?p=portfolio/electrical">Electrical</a>
+									<ul>
+										<li><a href="/index.php?p=portfolio/electrical/fmtransmitter">FM Transmitter</a></li>
+									</ul>
+								</li>
 								<li><a href="/index.php?p=portfolio/graphics">Graphics</a></li>
 								<li><a href="/index.php?p=portfolio/software">Software</a>
 									<ul>

@@ -37,6 +37,10 @@ if($page == 'desktop') {
 			$title = 'Electrical';
 			$include = '/portfolio/electrical/index.php';
 			break;
+		case 'portfolio/electrical/fmtransmitter':
+			$title = 'FM Transmitter';
+			$include = '/portfolio/electrical/fmtransmitter.php';
+			break;
 		case 'portfolio/graphics':
 			$title = 'Graphics';
 			$include = '/portfolio/graphics/index.php';
@@ -48,10 +52,6 @@ if($page == 'desktop') {
 		case 'portfolio/software/blackjack':
 			$title = 'Blackjack';
 			$include = '/portfolio/software/blackjack.php';
-			break;
-		case 'guides':
-			$title = 'Guides';
-			$include = '/guides/index.php';
 			break;
 		default:
 			$title = 'Introduction';
