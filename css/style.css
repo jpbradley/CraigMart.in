@@ -254,7 +254,10 @@
 	
 	#topbar { margin-bottom: 100px; }
 	
-	
+	#content ul { list-style: disc; }
+	#content li { margin: 0 20px; }
+	#content img { padding: 10px 0; }
+	#content h3 { color: #1C9FD3; }
 	
 	#wrapper { min-height: 100%; height: auto !important; height: 100%; margin: 0 auto -80px; }
 	
