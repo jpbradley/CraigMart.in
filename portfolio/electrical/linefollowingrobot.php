@@ -51,8 +51,8 @@ perfectly straight, but it really boils down to our algorithm of Left Right Stra
 other teams, our robot was the best at staying on the line even if it wasn&#39;t perfectly straight.
 If we were to re-program the robot to use the Left Stright Right rule, I believe we would solve the maze. 
 I unfortunately do not have an electronic copy of the maze and cannot show how it looked.<br />
-If you would like more details such as the Bill of Material or code, please feel free to visit my <a href="/forum">forum</a> 
-and request it!<br />
+If you would like more details such as the Bill of Material or code, please feel free to 
+<a href="mailto:admin@craigmart.in">email</a> me and request it!<br />
 Hopefully in the near future I will have time to upgrade the robot and include a better algorith as 
 well as memory so it can try remember the last maze it solved.<br />
 </p>
