@@ -41,6 +41,10 @@ if($page == 'desktop') {
 			$title = 'FM Transmitter';
 			$include = '/portfolio/electrical/fmtransmitter.php';
 			break;
+		case 'portfolio/electrical/linefollowingrobot':
+			$title = 'Line Following Robot';
+			$include = '/portfolio/electrical/linefollowingrobot.php';
+			break;
 		case 'portfolio/graphics':
 			$title = 'Graphics';
 			$include = '/portfolio/graphics/index.php';

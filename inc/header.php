@@ -58,6 +58,7 @@
 								<li><a href="/index.php?p=portfolio/electrical">Electrical</a>
 									<ul>
 										<li><a href="/index.php?p=portfolio/electrical/fmtransmitter">FM Transmitter</a></li>
+										<li><a href="/index.php?p=portfolio/electrical/linefollowingrobot">Line Following Robot</a></li>
 									</ul>
 								</li>
 								<li><a href="/index.php?p=portfolio/graphics">Graphics</a></li>
